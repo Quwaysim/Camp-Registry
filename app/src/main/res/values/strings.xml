@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">TAA Registry</string>
+    <string name="input_token">Input Token</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="verify">verify</string>
+    <string name="welcome">Welcome…</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="users">Users</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="full_name">Full Name</string>
+    <string name="gmail_com">\@gmail.com</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="school">School</string>
+    <string name="department">Department</string>>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="nil">…</string>
+    <string name="not_paid">Not Paid</string>
+    <string name="paid">Paid</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="participants">Participants</string>
+    <string name="zero">0</string>
+    <string name="fun">Fun</string>
+    <string name="early_bird">2000</string>
+    <string name="normal">2500</string>
+    <string name="partially_paid">Partially Paid</string>
+    <string name="revenue">Revenue</string>
+    <string name="revenue_generated_through_the_registry_cash">Revenue Generated Through the Registry (Cash):</string>
+    <string name="revenue_generated_through_bank">Revenue Generated Through Bank:</string>
+    <string name="part">Part</string>
+
+    <string-array name="levels">
+        <item>Select Level</item>
+        <item>Post-Graduate</item>
+        <item>Graduate</item>
+        <item>600</item>
+        <item>500</item>
+        <item>400</item>
+        <item>300</item>
+        <item>200</item>
+        <item>100</item>
+        <item>HND2</item>
+        <item>HND1</item>
+        <item>ND2</item>
+        <item>ND1</item>
+        <item>NCE2</item>
+        <item>NCE1</item>
+        <item>School Leaver</item>
+        <item>SSS3</item>
+        <item>SSS2</item>
+        <item>SSS1</item>
+        <item>JSS3</item>
+        <item>JSS2</item>
+        <item>JSS1</item>
+        <item>Pry5</item>
+        <item>Pry4</item>
+        <item>Pry3</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="schools">
+        <item>Unilorin</item>
+        <item>KWASU</item>
+        <item>KwaraPoly</item>
+        <item>Al-Hikmah</item>
+        <item>UDUSOK</item>
+        <item>ATBU</item>
+        <item>COED</item>
+        <item>FUTMinna</item>
+        <item>Olayemi</item>
+        <item>Five Ways</item>
+        <item>Tahfeedh</item>
+    </string-array>
+
+    <string-array name="amount">
+        <item>2000</item>
+        <item>1500</item>
+        <item>1000</item>
+        <item>500</item>
+    </string-array>
+
+    <string-array name="paid_type">
+        <item>Early Bird</item>
+        <item>Regular</item>
+    </string-array>
+
+    <string-array name="payment_mode">
+        <item>Select Payment Mode</item>
+        <item>Bank</item>
+        <item>Cash</item>
+    </string-array>
+
+    <string-array name="houses">
+        <item>Select House</item>
+        <item>CAMP OFFICIAL</item>
+        <item>Abdullah Bn Abi Qahaafah\'s House</item>
+        <item>Umar Bn Al-Khattaab\'s House</item>
+        <item>Uthman Bn \'Affaan\'s House</item>
+        <item>Khadeejah Bint Khuwaylid\'s House</item>
+        <item>\'Aaishah Bint Abubakr\'s House</item>
+        <item>Faatimah Bint Muhammad\'s House</item>
+    </string-array>
+
+</resources>
